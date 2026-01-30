@@ -2,7 +2,7 @@
   "name": "rg-ranking",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://donRaoulo.github.io/hc-rankingE",
+  "homepage": "https://donRaoulo.github.io/hc-ranking",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
