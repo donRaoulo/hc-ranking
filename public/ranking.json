@@ -1,8 +1,19 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
-  "total": 0,
+  "generatedAt": "2026-01-30T22:30:59.719Z",
+  "total": 2,
   "ok": 0,
-  "failed": 0,
+  "failed": 2,
   "data": [],
-  "errors": []
+  "errors": [
+    {
+      "name": "debugmode",
+      "url": "https://db.rising-gods.de/?profile=eu.rising-gods.debugmode",
+      "error": "Parse failed (HTTP 403)"
+    },
+    {
+      "name": "nellybly",
+      "url": "https://db.rising-gods.de/?profile=eu.rising-gods.nellybly",
+      "error": "Parse failed (HTTP 403)"
+    }
+  ]
 }
