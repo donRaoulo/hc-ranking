@@ -1,2 +1,3 @@
+debugmode
 nellybly
 # ein Name pro Zeile
