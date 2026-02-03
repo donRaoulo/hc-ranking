@@ -1,22 +1,19 @@
 {
-  "generatedAt": "2026-02-03T11:57:48.319Z",
+  "generatedAt": "2026-02-03T12:52:35.418Z",
   "total": 2,
-  "ok": 1,
-  "failed": 1,
-  "data": [
+  "ok": 0,
+  "failed": 2,
+  "data": [],
+  "errors": [
     {
       "name": "debugmode",
-      "level": 80,
-      "race": "Troll",
-      "class": "Schamane von",
-      "url": "https://db.rising-gods.de/?profile=eu.rising-gods.debugmode"
-    }
-  ],
-  "errors": [
+      "url": "https://db.rising-gods.de/?profile=eu.rising-gods.debugmode",
+      "error": "Parse failed (HTTP 403)"
+    },
     {
       "name": "nellybly",
       "url": "https://db.rising-gods.de/?profile=eu.rising-gods.nellybly",
-      "error": "Parse failed (HTTP 404)"
+      "error": "Parse failed (HTTP 403)"
     }
   ]
 }
